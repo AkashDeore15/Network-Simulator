@@ -62,7 +62,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or inquiries, please contact Akash Deore at [akashdeore1999@gmail.com].
-
-```
-
-**Note**: The above README is a template based on standard practices and the limited information available from the repository. For a more detailed and accurate README, consider adding specific details about the project's functionality, architecture, dependencies, and usage examples. 
